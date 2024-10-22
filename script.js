@@ -1,4 +1,4 @@
-const apiKey = "68e23fdb84e0e8d6f940afb70bd3caabd8d2f52c";
+const apiKey = "YOUR_APIKEY";
 
 const buttonEl = document.querySelector(".btn");
 const emojiEl = document.querySelector(".emoji");
